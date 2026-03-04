@@ -1,0 +1,1 @@
+# nazomatic-storage
