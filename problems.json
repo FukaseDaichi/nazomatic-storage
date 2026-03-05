@@ -11,9 +11,7 @@
           "id": "blank25-001",
           "linkName": "第0問",
           "imageFile": "1.png",
-          "answers": [
-            "かき"
-          ]
+          "answers": ["かき"]
         }
       ]
     },
@@ -27,187 +25,255 @@
           "id": "blank25-002",
           "linkName": "第1問",
           "imageFile": "2.png",
-          "answers": [
-            "QUEEN",
-            "クイーン"
-          ]
+          "answers": ["QUEEN", "クイーン"]
         },
         {
           "id": "blank25-003",
           "linkName": "第2問",
           "imageFile": "3.png",
-          "answers": [
-            "あき",
-            "秋"
-          ]
+          "answers": ["あき", "秋"]
         },
         {
           "id": "blank25-004",
           "linkName": "第3問",
           "imageFile": "4.png",
-          "answers": [
-            "えいち",
-            "エイチ"
-          ]
+          "answers": ["えいち", "エイチ"]
         },
         {
           "id": "blank25-005",
           "linkName": "第4問",
           "imageFile": "5.png",
-          "answers": [
-            "wing",
-            "WING",
-            "ウイング",
-            "羽",
-            "はね",
-            "ハネ"
-          ]
+          "answers": ["wing", "WING", "ウイング", "羽", "はね", "ハネ"]
         },
         {
           "id": "blank25-006",
           "linkName": "第5問",
           "imageFile": "6.png",
-          "answers": [
-            "じしゃく"
-          ]
+          "answers": ["じしゃく"]
         },
         {
           "id": "blank25-007",
           "linkName": "第6問",
           "imageFile": "7.png",
-          "answers": [
-            "オニオン"
-          ]
+          "answers": ["オニオン"]
         },
         {
           "id": "blank25-008",
           "linkName": "第7問",
           "imageFile": "8.png",
-          "answers": [
-            "1"
-          ]
+          "answers": ["1"]
         },
         {
           "id": "blank25-009",
           "linkName": "第8問",
           "imageFile": "9.png",
-          "answers": [
-            "ホワイト"
-          ]
+          "answers": ["ホワイト"]
         },
         {
           "id": "blank25-010",
           "linkName": "第9問",
           "imageFile": "10.png",
-          "answers": [
-            "ふくおか",
-            "福岡"
-          ]
+          "answers": ["ふくおか", "福岡"]
         },
         {
           "id": "blank25-011",
           "linkName": "第10問",
           "imageFile": "11.png",
-          "answers": [
-            "ぶもん",
-            "ブモン"
-          ]
+          "answers": ["ぶもん", "ブモン"]
         },
         {
           "id": "blank25-012",
           "linkName": "第11問",
           "imageFile": "12.png",
-          "answers": [
-            "りくつ"
-          ]
+          "answers": ["りくつ"]
         },
         {
           "id": "blank25-013",
           "linkName": "第12問",
           "imageFile": "13.png",
-          "answers": [
-            "直線",
-            "ちょくせん"
-          ]
+          "answers": ["直線", "ちょくせん"]
         },
         {
           "id": "blank25-014",
           "linkName": "第13問",
           "imageFile": "14.png",
-          "answers": [
-            "おとり"
-          ]
+          "answers": ["おとり"]
         },
         {
           "id": "blank25-015",
           "linkName": "第14問",
           "imageFile": "16.png",
-          "answers": [
-            "box",
-            "ぼっくす"
-          ]
+          "answers": ["box", "ぼっくす"]
         },
         {
           "id": "blank25-016",
           "linkName": "第15問",
           "imageFile": "17.png",
-          "answers": [
-            "かーぺっと",
-            "カーペット"
-          ]
+          "answers": ["かーぺっと", "カーペット"]
         },
         {
           "id": "blank25-017",
           "linkName": "第16問",
           "imageFile": "18.png",
-          "answers": [
-            "えはがき"
-          ]
+          "answers": ["えはがき"]
         },
         {
           "id": "blank25-018",
           "linkName": "第17問",
           "imageFile": "19.png",
-          "answers": [
-            "あにまる",
-            "アニマル"
-          ]
+          "answers": ["あにまる", "アニマル"]
         },
         {
           "id": "blank25-019",
           "linkName": "第18問",
           "imageFile": "20.png",
-          "answers": [
-            "ひかり",
-            "ヒカリ"
-          ]
+          "answers": ["ひかり", "ヒカリ"]
         },
         {
           "id": "blank25-020",
           "linkName": "第19問",
           "imageFile": "21.png",
-          "answers": [
-            "しりめつれつ",
-            "支離滅裂"
-          ]
+          "answers": ["しりめつれつ", "支離滅裂"]
         },
         {
           "id": "blank25-021",
           "linkName": "第20問",
           "imageFile": "22.png",
-          "answers": [
-            "ハト",
-            "はと"
-          ]
+          "answers": ["ハト", "はと"]
         },
         {
           "id": "blank25-022",
           "linkName": "第21問",
           "imageFile": "15.png",
-          "answers": [
-            "きくらげ",
-            "キクラゲ"
-          ]
+          "answers": ["きくらげ", "キクラゲ"]
+        }
+      ]
+    },
+    {
+      "id": "easy",
+      "name": "はじめの一歩",
+      "description": "簡単な問題詰め合わせ！",
+      "color": "#10b981",
+      "problems": [
+        {
+          "id": "blank25-023",
+          "linkName": "第1問",
+          "imageFile": "easy1.png",
+          "answers": ["かいとう", "回答"]
+        },
+        {
+          "id": "blank25-024",
+          "linkName": "第2問",
+          "imageFile": "easy2.png",
+          "answers": ["猫", "ねこ", "ネコ"]
+        },
+        {
+          "id": "blank25-025",
+          "linkName": "第3問",
+          "imageFile": "easy3.png",
+          "answers": ["おかし", "お菓子"]
+        },
+        {
+          "id": "blank25-026",
+          "linkName": "第4問",
+          "imageFile": "easy4.png",
+          "answers": ["ぼとる", "ボトル"]
+        },
+        {
+          "id": "blank25-027",
+          "linkName": "第5問",
+          "imageFile": "easy5.png",
+          "answers": ["土台", "どだい"]
+        },
+        {
+          "id": "blank25-028",
+          "linkName": "第6問",
+          "imageFile": "easy6.png",
+          "answers": ["かいてん", "回転"]
+        },
+        {
+          "id": "blank25-029",
+          "linkName": "第7問",
+          "imageFile": "easy7.png",
+          "answers": ["壺", "つぼ"]
+        },
+        {
+          "id": "blank25-030",
+          "linkName": "第8問",
+          "imageFile": "easy8.png",
+          "answers": ["サイコロ", "さいころ"]
+        },
+        {
+          "id": "blank25-031",
+          "linkName": "第9問",
+          "imageFile": "easy9.png",
+          "answers": ["flag", "フラッグ", "旗", "はた"]
+        },
+        {
+          "id": "blank25-032",
+          "linkName": "第10問",
+          "imageFile": "easy10.png",
+          "answers": ["結構な金額", "けっこうなきんがく"]
+        },
+        {
+          "id": "blank25-033",
+          "linkName": "第11問",
+          "imageFile": "easy11.png",
+          "answers": ["カードでタッチ", "かーどでたっち"]
+        },
+        {
+          "id": "blank25-034",
+          "linkName": "第12問",
+          "imageFile": "easy12.png",
+          "answers": ["珊瑚", "さんご"]
+        },
+        {
+          "id": "blank25-035",
+          "linkName": "第13問",
+          "imageFile": "easy13.png",
+          "answers": ["手紙", "てがみ"]
+        },
+        {
+          "id": "blank25-036",
+          "linkName": "第14問",
+          "imageFile": "easy14.png",
+          "answers": ["みかん", "ミカン"]
+        },
+        {
+          "id": "blank25-037",
+          "linkName": "第15問",
+          "imageFile": "easy15.png",
+          "answers": ["灰色", "はいいろ"]
+        },
+        {
+          "id": "blank25-038",
+          "linkName": "第16問",
+          "imageFile": "easy16.png",
+          "answers": ["大人", "おとな"]
+        },
+        {
+          "id": "blank25-039",
+          "linkName": "第17問",
+          "imageFile": "easy17.png",
+          "answers": ["保育士", "ほいくし"]
+        },
+        {
+          "id": "blank25-040",
+          "linkName": "第18問",
+          "imageFile": "easy18.png",
+          "answers": ["フリック", "ふりっく"]
+        },
+        {
+          "id": "blank25-041",
+          "linkName": "第19問",
+          "imageFile": "easy19.png",
+          "answers": ["描き下ろし", "かきおろし", "カキオロシ"]
+        },
+        {
+          "id": "blank25-042",
+          "linkName": "第20問",
+          "imageFile": "easy20.png",
+          "answers": ["くるぶし", "クルブシ"]
         }
       ]
     }
